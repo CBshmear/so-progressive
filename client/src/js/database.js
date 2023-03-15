@@ -23,7 +23,7 @@ export const putDb = async (content) => {
   const tx = contactDb.transaction("jate", "readwrite");
 
   //open up object store
-  const store = tx.objectStore("contact");
+  const store = tx.objectStore("jate");
 
   // use .add() method to pass in content
   const request = store.add({ content: content });
