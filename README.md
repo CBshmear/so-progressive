@@ -24,6 +24,7 @@ Install the necessary packages by running "NPM I" from your terminal, inside the
 
 
 To run the app, use the command "NPM RUN START" This will build your webpack and initialize the application.
+Here is a link to the deployed application:  https://so-progressive.herokuapp.com/ 
 
 ## Credits
 For this project I recieved some help from the great Charles Werness
